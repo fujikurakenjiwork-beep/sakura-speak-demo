@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fapp\u002Fchat\u002F[slug]","\u002Fapp\u002Flessons\u002F[id]","\u002Fapp\u002Fnews\u002F[slug]","\u002Fapp\u002Freview\u002F[id]","\u002Fapp\u002Fu\u002F[username]","\u002Fapp\u002Fvocab\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
